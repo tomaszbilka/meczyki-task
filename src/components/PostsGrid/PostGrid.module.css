@@ -7,6 +7,14 @@
   margin: 0 auto;
 }
 
+.nofound {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
 @media (max-width: 1000px) {
   .wrap {
     width: 50%;
